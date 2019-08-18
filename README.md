@@ -8,3 +8,5 @@ This repo for submitting assignment of Data Science Course from Devc-Challenge a
 [Week 3](https://github.com/lamducanhndgv/CoderSchool-DataScience/tree/master/Week_3)
 <br/>
 [Week 4](https://github.com/lamducanhndgv/CoderSchool-DataScience/tree/master/Week_4)
+<br/>
+[Week 5](https://github.com/lamducanhndgv/CoderSchool-DataScience/tree/master/Week_5)
